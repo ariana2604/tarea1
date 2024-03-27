@@ -1,0 +1,35 @@
+{ 
+    "producto":[ 
+        { 
+            "Id":"1",
+            "Descripcion":"Mouse",
+            "Precio": "30.00",
+            "Url":"https://w7.pngwing.com/pngs/240/71/png-transparent-computer-mouse-logitech-apple-usb-mouse-pc-mouse-electronics-computer-mouse.png"
+        },
+
+        
+        { 
+            "Id":"1",
+            "Descripcion":"Teclado",
+            "Precio": "30.00",
+            "Url":"https://c0.klipartz.com/pngpicture/47/234/gratis-png-teclado-del-ordenador-teclado-del-conmutador-teclado-numerico-usb-teclado.png"
+        },
+
+        
+        { 
+            "Id":"1",
+            "Descripcion":"Pantalla",
+            "Precio": "30.00",
+            "Url":"https://png.pngtree.com/element_our/20190602/ourmid/pngtree-grey-computer-monitor-illustration-image_1412852.jpg"
+        },
+
+        
+        { 
+            "Id":"1",
+            "Descripcion":"Memoria Ram",
+            "Precio": "30.00",
+            "Url":"https://w7.pngwing.com/pngs/929/572/png-transparent-ram-computer-memory-flash-memory-rom-computer-computer-ram-electronic-device.png"
+        }
+    ]
+}
+
